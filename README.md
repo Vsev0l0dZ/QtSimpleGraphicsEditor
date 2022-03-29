@@ -1,0 +1,2 @@
+# QtSimpleGraphicsEditor
+Simple Graphics Editor
