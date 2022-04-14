@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/Ellipse.png</file>
+        <file>Images/IconEllipse.ico</file>
+        <file>Images/iconExit.ico</file>
+        <file>Images/IconRect.ico</file>
+        <file>Images/Rect.png</file>
+        <file>Images/T.png</file>
+    </qresource>
+</RCC>
