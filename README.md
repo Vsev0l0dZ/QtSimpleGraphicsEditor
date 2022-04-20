@@ -10,4 +10,4 @@ Simple Graphics Editor
 
 Параметры фигур сохраняются в таблице.
 
-![](https://github.com/Vsev0l0dZ/QtSimpleGraphicsEditor/QtSimpleGraphicsEditor/Images/scsh.png)
+![](https://github.com/Vsev0l0dZ/QtSimpleGraphicsEditor/Images/scsh.png)
